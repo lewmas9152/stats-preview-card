@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap'));
+*,*::after,*::before{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
